@@ -7,8 +7,8 @@
 기 제작했던 X-MAS카드를 사용하여 X-MAS파티 초대장을 새롭게 만들어보았다.
 사용한 음악 파일과 이미지 파일들은 모두 media폴더에 저장하며 사용하였다.
 ## 나의 홈페이지에 추가된 html 파일
--hm17_best_music.html 
--hm17_card.html
--hm17_my.daily_life.html
--hm17_my.info.html
--hm17_rpt02.html
+- hm17_best_music.html 
+- hm17_card.html
+- hm17_my.daily_life.html
+- hm17_my.info.html
+- hm17_rpt02.html
